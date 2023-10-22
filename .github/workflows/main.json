@@ -1,0 +1,16 @@
+[
+  {
+    "name": "HTML5 Validator",
+    "uses": "Cyb3r-Jak3/html5validator-action@v7.2.0",
+    "with": {
+      "root": null,
+      "config": null,
+      "extra": null,
+      "format": null,
+      "log_level": null,
+      "css": null,
+      "blacklist": null,
+      "skip_git_check": null
+    }
+  }
+]
