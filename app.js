@@ -7,7 +7,7 @@ app.get('/', (req, res) => {
 })
 
 app.get('/liveness', (req,res) => {
-res.send('OK')
+res.json({"status": "OK")
 })
 
 app.listen(port, () => {
